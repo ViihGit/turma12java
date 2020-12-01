@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "57751f07-74ce-4eb1-894f-e6ebc0fcc3ef",
+		"name": "HelloeHabilidades",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "hellohab",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080",
+					"host": [
+						"localhost"
+					],
+					"port": "8080"
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
